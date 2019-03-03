@@ -1,7 +1,7 @@
 # <p align="center"> Machine Learning Recommender Systems </p>
 <p align="center"> George Aboalahad </p>
 
-This repository contains short examples to grasp the concept of recommender systems with machine learning. There are several ways to make relevant recommendations to users, and in these examples the ways are demonstrated.
+This repository contains short examples to grasp the concept of recommender systems with machine learning. There are several ways to make relevant recommendations to users, and in these examples only a for of the ways are demonstrated at a conceptual level.
 
 ## Popularity-Based Recommendations
 This is one of the simplest ways to recommend items to users. It assumes that items that have been rated often by other users is popular and is therefor of interest to the user in question. Building on this assumption, popularity is measured by rating count for each item. Observe that popularity can be measured in other ways than this.
