@@ -23,5 +23,4 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 It was originally created by: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014.
 
 ```
-The accuracy of these classification models are very low. This is due to poor user data used in this example, along with no regards to model tuning. This example should hence only be used to grasp the concept of classification-based recommendation engines.
-```
+The accuracy of these classification models are very low. This is due to poor user data used in this example, along with no regards to model tuning. This example should hence only be used to grasp the concept of classification-based recommendation engines. ```
